@@ -11,5 +11,5 @@ apt update && apt upgrade
 ```
 2. Now run the script
 ```bash
-curl https://raw.githubusercontent.com/DevPoli/PlayIT-Termux/main/install.sh | bash
+curl https://raw.githubusercontent.com/DevPoli/PlayIT-Termux/main/installing.sh | bash
 ```
